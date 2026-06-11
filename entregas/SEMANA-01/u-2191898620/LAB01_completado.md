@@ -188,6 +188,17 @@ Guardar en `entregas/SEMANA-01/u-TU-CODIGO/capturas/`:
 □ 3. Captura de la Game View con la escena corriendo (Play)
 □ 4. Captura del Inspector mostrando el script RotarObjeto
 □ 5. Link al repositorio GitHub de tu proyecto
+
+## Repositorio del laboratorio
+
+Repositorio del proyecto Unity:
+
+https://github.com/Leo479-hub/rva-s01-LeonardoRau
+
+## Evidencias
+
+Las capturas de pantalla se encuentran en la carpeta `capturas/` de esta entrega.
+
 ```
 
 ---
